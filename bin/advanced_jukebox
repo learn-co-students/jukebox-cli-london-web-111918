@@ -4,13 +4,13 @@ require_relative "../lib/advanced_jukebox"
 
 
 my_songs = {
-"Go Go GO" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/01.mp3',
-"LiberTeens" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/02.mp3',
-"Hamburg" =>  '< path to this directory >/jukebox-cli/audio/Emerald-Park/03.mp3',
-"Guiding Light" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/04.mp3',
-"Wolf" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/05.mp3',
-"Blue" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/06.mp3',
-"Graduation Failed" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/07.mp3'
-}
+"Go Go GO" => '/Users/ian/Documents/flatiron-labs/jukebox-cli-london-web-111918/audio/Emerald-Park/01.mp3',
+"LiberTeens" => '/Users/ian/Documents/flatiron-labs/jukebox-cli-london-web-111918/audio/Emerald-Park/02.mp3',
+"Hamburg" =>  '/Users/ian/Documents/flatiron-labs/jukebox-cli-london-web-111918/audio/Emerald-Park/03.mp3',
+"Guiding Light" => '/Users/ian/Documents/flatiron-labs/jukebox-cli-london-web-111918/audio/Emerald-Park/04.mp3',
+"Wolf" => '/Users/ian/Documents/flatiron-labs/jukebox-cli-london-web-111918/audio/Emerald-Park/05.mp3',
+"Blue" => '/Users/ian/Documents/flatiron-labs/jukebox-cli-london-web-111918/audio/Emerald-Park/06.mp3',
+"Graduation Failed" => '/Users/ian/Documents/flatiron-labs/jukebox-cli-london-web-111918/audio/Emerald-Park/07.mp3'
+ }
 
 run(my_songs)
